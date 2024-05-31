@@ -1,5 +1,4 @@
-# DISNEYHUT MERN APP
-## DEMO: [https://disneyhut.onrender.com/](https://disney-hut.onrender.com/)
+
 ## Environment variables
 - MONGO_URL
 - SECRET_KEY
